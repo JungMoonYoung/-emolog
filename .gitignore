@@ -33,3 +33,6 @@ firebase-debug.log
 
 # DataConnect
 /dataconnect/
+
+# AI Models
+/public/models/
